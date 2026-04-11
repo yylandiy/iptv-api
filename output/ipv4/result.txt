@@ -1,23 +1,24 @@
 🕘️更新时间,#genre#
-2026-04-11 06:43:25,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
+2026-04-11 18:40:47,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
 
 📺央视频道,#genre#
 CCTV-1,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=8
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-3,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV3
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-5,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV5
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-5+,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV5p
-CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=9
-CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=2
-CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=3
-CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=4
+CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6b0f8d5d1315a56f43bb61e81d9278ee
 CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=5
+CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=2
+CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=4
+CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=9
+CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=3
 CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=7
 CCTV-10,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 CCTV-10,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV10
@@ -29,11 +30,11 @@ CCTV-13,http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV13
 📡卫视频道,#genre#
 广东卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdwshd
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
-湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
-湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=4
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
+湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
@@ -77,7 +78,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-金鹰卡通,http://101.66.199.126:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 
 🎮游戏频道,#genre#
 
