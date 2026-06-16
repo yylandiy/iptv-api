@@ -1,46 +1,45 @@
 🕘️更新时间,#genre#
-2026-06-16 23:14:36,https://iptv.catvod.com/catvod?id=CCTV1&line=20
+2026-06-17 07:27:18,https://iptv.catvod.com/catvod?id=CCTV1&line=19
 
 📺央视频道,#genre#
-CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=20
-CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=21
 CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=19
-CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1%E7%BB%BC%E5%90%88&line=1
-CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=13
-CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=8
+CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=21
 CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=7
+CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=8
+CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=20
+CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=13
+CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1%E7%BB%BC%E5%90%88&line=1
 CCTV-1,https://iptv.catvod.com/catvod?id=CCTV1&line=15
-CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=7
-CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3%E7%BB%BC%E8%89%BA&line=1
-CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=8
-CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=9
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=8
 CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=6
-CCTV-3,http://173.208.212.130:8181/1080p/cctv3.m3u8
-CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5&line=3
-CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5&line=4
+CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=9
+CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=8
+CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=7
+CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=8
+CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3%E7%BB%BC%E8%89%BA&line=1
 CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5&line=5
-CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5%E4%BD%93%E8%82%B2&line=1
-CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5%2B&line=2
+CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5&line=4
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
+CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5%E4%BD%93%E8%82%B2&line=1
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=15
+CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5%2B&line=2
 CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5&line=2
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=13
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=14
+CCTV-5,https://iptv.catvod.com/catvod?id=CCTV5&line=3
 CCTV-9,https://iptv.catvod.com/catvod?id=CCTV-9%E9%AB%98%E6%B8%85&line=1
 CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=7
 CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=9
 CCTV-10,http://192.151.150.154/live/cctv10hd.m3u8
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=8
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=11
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=12
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13%E6%96%B0%E9%97%BB&line=1
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=3
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=2
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=5
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=1
 CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=7
 CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=6
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=3
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13%E6%96%B0%E9%97%BB&line=1
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=9
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=2
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=1
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=5
-CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=11
+CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=8
 
 💰央视付费频道,#genre#
 文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
@@ -51,28 +50,23 @@ CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=11
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=3
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2
 湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://198.204.228.26/live/hnwshd.m3u8
 湖南卫视,http://173.208.212.130:8181/1080p/hnws.m3u8
-湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
 安徽卫视,http://198.204.228.26/live/ahwshd.m3u8
-安徽卫视,http://173.208.212.130:8181/720p/ahws.m3u8
 东方卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd
 广西卫视,http://home.scanflove.com:7788/rtp/235.254.198.38:1428
 贵州卫视,https://live.264788.xyz/channel/guizhouweishi?streamid=c2c82d250bd1aa9e46b789794bb578cf&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://192.151.150.154/live/hawshd.m3u8
-河南卫视,http://173.208.212.130:8181/720p/haws.m3u8
 江苏卫视,http://198.204.228.26/live/jswshd.m3u8
-江苏卫视,http://173.208.212.130:8181/720p/jsws.m3u8
 青海卫视,http://192.151.150.154/live/qhws.m3u8
-山东卫视,http://173.208.212.130:8181/720p/sdws.m3u8
 四川卫视,https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=3
 四川卫视,https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=1
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
-天津卫视,http://223.75.149.129:9906/tsfile/live/0135_1.m3u8?key=txiptv
 西藏卫视,http://198.204.228.26/live/xzws.m3u8
 新疆卫视,http://192.151.150.154/live/xjws.m3u8
 
@@ -102,8 +96,6 @@ NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=0
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
@@ -117,8 +109,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=5
-新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=4
 新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=3
+新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=4
 
 🎮游戏频道,#genre#
 
