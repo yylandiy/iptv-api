@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-15 19:40:13,http://198.204.228.26/live/cctv5p.m3u8
+2026-07-16 07:02:03,http://198.204.228.26/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
@@ -22,8 +22,6 @@ CCTV-13,http://pull-hls-f1.douyinliving.com/media/stream-696107587393815378/play
 江苏卫视,http://204.12.221.218:8181/3m1080p/jsws.m3u8
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
-四川卫视,http://182.37.41.46:8154/tsfile/live/0123_1.m3u8?key=txiptv
-深圳卫视,http://58.56.162.102:4466/newlive/live/hls/24/live.m3u8
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
 
 ☘️广东频道,#genre#
@@ -52,8 +50,8 @@ NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=c
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
