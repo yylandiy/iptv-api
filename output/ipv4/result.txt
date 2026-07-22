@@ -1,12 +1,14 @@
 🕘️更新时间,#genre#
-2026-07-22 07:02:45,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
+2026-07-22 19:53:52,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://204.12.221.218:8181/3m1080p/cctv3.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
 CCTV-5,http://125.43.247.15:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
+CCTV-9,http://txycdn2.video.qq.com/1755788302.m3u8?time=1784644116&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIH7W2bnZSm56B3j7_HezzeBO0bogTPfRUB3da4sg95g3EOkwAjQH--kdLTSzEbq9d6IBcOYCBMwsc5Oyc4u2m8a1AJGh0wZ-MdLmVLlFYeXRArfvxjhl3QPjfILJNbhJ1ciJmgdWlwyxlowh3LCPk_nQV8eorJOzHgum5ST4UBoAgitfH8ihhVBOJXtxUzBSzvmy1_C7gZwICP_rG9MFQ3vzfswfQnYq7CpfqKwHrhwwJXD4A3C92U3tsb_tgK6H_NIq2a4H2kHBfjhiQUIvWdZdjXF7EkfeAQhN6kN9RSILOx2Ej_9-3c4N1goJnK7XqAsEy0RfUW09M2oCL2YOwAg8KWBYrAZ1XwoZ3nsrFFvjk_saVgXG9kV5KvOwhXwU9WplsnhYtEu-jsZExP64HZMnchDTELrHILIkXC1QtYVqYMkk_8Si7STuzjWO7neEfqAZoxXRX80BSa7zXRxqrsf0Ulsf0YbWvAp-Z1-1Gk-biShdau1rM-4-9-Vf4wjVC2RD_c1XoisbkXD52Y0dpBocOyZpsQMjU8ueuZewwEXLlNjN&drmtype=0
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
+CCTV-10,http://txycdn5.video.qq.com/1370437002.m3u8?time=1784644068&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIFOA_NKIs-BiPLXRScWLiM8eESw4gCHMzhug_q3VhE2EEEIIoY8NuHSgVFRJUwzrSI0BcGDl0T9l4IKFjDlH5Q_VFXiB4LpbSXR2Ug7iNfGzrnehfFek0OJyxFrmeQu--AR6ChR_DQTYyfHCDJ08UQCrm8cbx1knljucifP5Z4DqhGHd0oFbHjwKUlkBiLVwBZoQ0Pu981lZL01lMKDfP_SjgpyYC83bOUqNVRqXehejaaalJAp58OTkLzTdkI8Ju5nno6O4h5n8VJArH5sEbXbu8S5Rq3rjWc60LBr5xUEC0UTnbX0Pc3yCvvtOpsxcNuCO-jBDxJ1NiyV74QPBLKGUnwNHNs5GfoUnBUY5TyVmJPs3AWs6rZkuxLhXookw9hatNRKmRGeUM9FWYX5n2UwV_mUEc3B52KYkil4O5ZehgmEfb2ZoNufMj6CU0Xf2Fz_6K2Jt2JlyI7zQd1PUsdm_GBbbfz711pghJIffPnXwIg2RghlPpy-RsDzdpuRDCUMBlz_YFVZ3SpNyD7cQD3uyuhPHDVojvtNdCtivBZ19HP-y&drmtype=0
 CCTV-10,http://125.43.247.15:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://125.43.247.15:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
@@ -49,13 +51,13 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
-天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
@@ -68,7 +70,6 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-金鹰卡通,http://125.43.247.15:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
