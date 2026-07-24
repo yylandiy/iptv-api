@@ -1,13 +1,25 @@
 🕘️更新时间,#genre#
-2026-07-24 07:01:26,http://198.204.228.26/live/cctv5p.m3u8
+2026-07-24 19:48:37,http://45.192.97.170:8880/play/602.m3u8
 
 📺央视频道,#genre#
+CCTV-1,http://45.192.97.170:8880/play/602.m3u8
+CCTV-3,http://45.192.97.170:8880/play/604.m3u8
+CCTV-5,http://txycdn1.video.qq.com/1369718502.m3u8?time=1784817365&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIOIRvTNsCawahsZ0KBWm5__uQYSBocsSp7aQ5gvuny1WEF_V_cp6gz5sEqSQpYCI45UBcGBdcv8e18JW1pn025Wa8T45w3w4Ghh3vhB_PblI2pkXORYjFRJTK2nNLTBzfTBL-G8UMx3gWUuZuyd8i-Uo8GomWQtuLNm1I_v4dZv6BPWskwh4Xjn4s2Y7e1ZIRwvZ-FFhONk-V4q5wgaKchC2dwC1MtR-tQXadKZDoTV5CBrqj1cZJ9GjiPHhLd7kvbJL3KhOHxVmcxxAyQ7fG4CextzbA7zqorxGfr5c-B6xPvei4QWw6NCTu7QRoQdVIMZ6H_Axs8ioRv0a4nubN3fkjxk0k_31csA9hRxjKBGIXt9vm8CMBa7BClqBJtX5xHXe23kqUtWRfavzA2kovDBP2ofg8JE1Wh-BTsg4Z3PX_pavKpmXdQy5sNmzwuc31vkmnSirrmrjTFGi2FeCcjBsqGYxAPth78CMAj5ulcwYbgVRRhdE1wy6fucJDLpfP5ASOohEpQ0dpRL8X_vW5vRVL1sWF-5r5J_aQl8amerWFI1N&drmtype=0
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
+CCTV-5,http://45.192.97.170:8880/play/606.m3u8
+CCTV-5,http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 
 💰央视付费频道,#genre#
 文化精品,http://192.151.150.154/live/ysjp.m3u8
+文化精品,http://104.152.209.49:8181/720p/ysjp.m3u8
+央视台球,http://104.152.209.49:8181/720p/ystq.m3u8
+第一剧场,http://104.152.209.49:8181/720p/dyjc.m3u8
+第一剧场,http://45.192.97.170:8880/play/956.m3u8
+风云剧场,http://104.152.209.49:8181/720p/fyjc.m3u8
+风云剧场,http://45.192.97.170:8880/play/958.m3u8
+怀旧剧场,http://45.192.97.170:8880/play/957.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
@@ -33,22 +45,35 @@ CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 翡翠台,rtmp://demo2.anj365.com/live/xiangjiaoge-fc
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
+翡翠台,http://45.192.97.170:8880/play/1255.m3u8
+翡翠台,http://45.192.97.170:8880/play/1216.m3u8
+明珠台,http://45.192.97.170:8880/play/1256.m3u8
+明珠台,http://45.192.97.170:8880/play/1217.m3u8
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
+靖天资讯,http://45.192.97.170:8880/play/1326.m3u8
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+纬来电影,http://45.192.97.170:8880/play/1281.m3u8
+靖天映画,http://45.192.97.170:8880/play/1267.m3u8
+靖天映画,http://45.192.97.170:8880/play/1335.m3u8
+靖天戏剧,http://45.192.97.170:8880/play/1268.m3u8
+靖天戏剧,http://45.192.97.170:8880/play/1330.m3u8
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
+天映经典,http://45.192.97.170:8880/play/1242.m3u8
+天映经典,http://45.192.97.170:8880/play/1252.m3u8
+东森洋片,http://45.192.97.170:8880/play/1287.m3u8
 
 🏀体育频道,#genre#
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
@@ -61,6 +86,8 @@ IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
+七龙珠,http://45.192.97.170:8880/play/2060.m3u8
+火影忍者,http://45.192.97.170:8880/play/2045.m3u8
 
 🎮游戏频道,#genre#
 
