@@ -1,15 +1,13 @@
 🕘️更新时间,#genre#
-2026-07-31 20:08:25,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+2026-08-01 07:06:23,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 CCTV-5,http://198.204.228.26/live/cctv5p.m3u8
-CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.80:8000
 CCTV-5,http://39.77.158.228:4002/rtp/239.253.254.192:8000
-CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.192:8000
+CCTV-5,http://39.77.163.221:4002/rtp/239.253.254.80:8000
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
-CCTV-13,http://123.118.55.165:45237/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 
@@ -17,9 +15,12 @@ CCTV-13,http://123.118.55.165:45237/tsfile/live/0013_1.m3u8?key=txiptv&playlive=
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,http://182.114.50.55:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
+湖北卫视,http://182.114.50.55:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
+深圳卫视,http://182.114.50.55:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://198.204.228.26/live/tjwshd.m3u8
 
 ☘️广东频道,#genre#
@@ -38,18 +39,16 @@ CCTV-13,http://123.118.55.165:45237/tsfile/live/0013_1.m3u8?key=txiptv&playlive=
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
 
 🎬电影频道,#genre#
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
-CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 🏀体育频道,#genre#
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
+体育赛事,http://45.192.97.170:8880/play/4187.m3u8
+体育赛事,http://45.192.97.170:8880/play/4188.m3u8
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
 
 🪁动画频道,#genre#
