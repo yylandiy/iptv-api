@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-06 07:39:56,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-06 21:30:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -757,6 +757,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 经典电影,https://mursor.ottiptv.cc/bilibili/1777481601
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
 经典电影,https://goodiptv.club/douyu/6091425
+IPTV经典电影,http://45.192.97.170:8880/play/2649.m3u8
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 天映经典,https://stream1.freetv.fun/tian-ying-jing-dian-5.m3u8
 天映经典,https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy
